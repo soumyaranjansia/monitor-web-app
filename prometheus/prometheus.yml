@@ -1,0 +1,7 @@
+global:
+  scrape_interval: 15s
+
+scrape_configs:
+  - job_name: 'node_app'
+    static_configs:
+      - targets: ['host.docker.internal:3001']  # Update this if your Node.js app is running on a different port

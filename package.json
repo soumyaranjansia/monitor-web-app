@@ -1,0 +1,17 @@
+{
+  "name": "monitor-web-app",
+  "version": "1.0.0",
+  "description": "Helps to monitor web app using prometheus and graffana",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "express": "^4.21.1",
+    "prom-client": "^15.1.3"
+  }
+}
