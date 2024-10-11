@@ -3,7 +3,7 @@
 Welcome to the **Web Monitoring Tool**! This application serves as a powerful solution for monitoring the performance and health of your web applications and APIs. With real-time metrics and detailed visualizations, you can ensure that your applications operate efficiently and are always available to your users.
 
 ![Grafana Dashboard](https://github.com/grafana/grafana/raw/main/docs/logo-horizontal.png#gh-light-mode-only) <!-- Grafana Image -->
-##+
++
 ![Prometheus](https://github.com/prometheus/prometheus/raw/main/documentation/images/prometheus-logo.svg) <!-- Prometheus Image -->
 
 ## 📊 Features
