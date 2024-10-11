@@ -2,7 +2,7 @@
 
 Welcome to the **Web Monitoring Tool**! This application allows you to effortlessly monitor the performance and health of your web applications and APIs. 
 
-![Monitoring Tool](https://user-images.githubusercontent.com/your-image-url.png)  <!-- Replace with an appropriate image URL -->
+![Monitoring Tool](https://avatars.githubusercontent.com/u/80354551?v=4)  <!-- Replace with an appropriate image URL -->
 
 ## 📊 Features
 
