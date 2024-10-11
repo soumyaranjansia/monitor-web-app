@@ -49,10 +49,3 @@ For any inquiries, suggestions, or feedback, please reach out to me at rahulsia2
 
 Thank you for using the Web Monitoring Tool! Happy monitoring! 🎉
 
-sql
-Copy code
-
-### Notes:
-- Replace the `![Monitoring Tool](https://user-images.githubusercontent.com/your-image-url.png)` line with a relevant image URL if you have one.
-- Feel free to adjust any sections or add more details that are specific to your application.
-- Use appropriate markdown formatting and emojis to keep it engaging and clear.
